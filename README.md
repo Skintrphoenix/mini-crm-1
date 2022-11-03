@@ -15,7 +15,7 @@ Basically, project to manage companies and their employees. Mini-CRM.
 1. - [x]     Store companies logos in storage/app/public folder and make them accessible from public
 1. - [x]     Use basic Laravel resource controllers with default methods – index, create, store etc.
 1. - [x]     Use Laravel’s validation function, using Request classes
-1. - [ ]     Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
+1. - [x]     Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
 1. - [x]     Use Laravel make:auth as default Bootstrap-based design theme, but remove ability to register
 
 Optional Feature
